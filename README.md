@@ -18,7 +18,7 @@ If you change it from 1 to any of the following values, it will have the followi
 #assuming FOV == 100:
 # >1 = worse graphics and the performance isn't drastically effected
 # 1 = rendered rectangle for every 5 pixels (really smooth performance)
-# 0.8 = this is the best balance in my opinion
+# 0.8 = this is the best balance in my opinion [default]
 # 0.4 = twice as good looking as 0.8 but it's twice as slow
 # 0.2 = pixel perfect rendering (but it's really laggy and slow)
 # <0.2 = won't render anything
