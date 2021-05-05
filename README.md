@@ -1,6 +1,13 @@
 # Raycaster
 It's a raycaster in python
 
+drawing.py is the file you want to execute
+
+In order to run it, you'll need the following libraries: 
+- pygame
+- math
+- numpy
+
 Controls:
 Use the left and right arrow keys to look around
 Use the up and down arrow keys to move forward and backward
